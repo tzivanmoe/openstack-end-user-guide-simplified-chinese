@@ -6,4 +6,5 @@
    * Log in to the Dashboard
    * Upload and Manage Images
    * Configure access and security for instances
+   * Launch and manage instances
 
