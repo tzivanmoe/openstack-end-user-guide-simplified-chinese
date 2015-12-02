@@ -1,5 +1,5 @@
 # Summary
 
-* [简报](README.md)
+* [简报](index.md)
 * [摘要](index.md)
 
