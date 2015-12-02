@@ -9,4 +9,5 @@
    * Launch and manage instances
    * Create and manage networks
    * Create and manage object containers
+   * Create and manage volumes
 
