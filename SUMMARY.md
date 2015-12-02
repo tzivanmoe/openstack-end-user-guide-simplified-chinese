@@ -8,4 +8,5 @@
    * Configure access and security for instances
    * Launch and manage instances
    * Create and manage networks
+   * Create and manage object containers
 
