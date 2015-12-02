@@ -9,7 +9,7 @@
    * [Launch and manage instances](dashboard_launch_instances.md)
    * [Create and manage networks](openstack_dashboard/dashboard_create_networks.md)
    * [Create and manage object containers](openstack_dashboard/dashboard_manage_containers.md)
-   * Create and manage volumes
+   * [Create and manage volumes](openstack_dashboard/dashboard_manage_volumes.md)
    * Create and manage shares
    * Launch and manage stacks
    * Create and manage databases
