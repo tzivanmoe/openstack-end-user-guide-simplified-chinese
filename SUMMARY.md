@@ -7,4 +7,5 @@
    * Upload and Manage Images
    * Configure access and security for instances
    * Launch and manage instances
+   * Create and manage networks
 
