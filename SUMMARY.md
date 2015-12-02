@@ -10,4 +10,5 @@
    * Create and manage networks
    * Create and manage object containers
    * Create and manage volumes
+   * Create and manage shares
 
