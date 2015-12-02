@@ -2,5 +2,5 @@
 
 * [写在前面](index.md)
 * How Can I Use an OpenStack Guide?
-* OpenStack Dashboard
+* [OpenStack Dashboard](openstack_dashboard/index.md)
 
