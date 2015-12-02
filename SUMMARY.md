@@ -7,7 +7,7 @@
    * [Upload and Manage Images](openstack_dashboard/dashboard_manage_images.md)
    * [Configure access and security for instances](openstack_dashboard/configure_access_and_security_for_instances.md)
    * [Launch and manage instances](dashboard_launch_instances.md)
-   * [Create and manage networks](dashboard_create_networks.md)
+   * [Create and manage networks](openstack_dashboard/dashboard_create_networks.md)
    * [Create and manage object containers](openstack_dashboard/dashboard_manage_containers.md)
    * Create and manage volumes
    * Create and manage shares
