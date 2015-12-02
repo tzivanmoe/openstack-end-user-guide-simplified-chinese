@@ -5,4 +5,5 @@
 * [OpenStack Dashboard](openstack_dashboard/index.md)
    * Log in to the Dashboard
    * Upload and Manage Images
+   * Configure access and security for instances
 
