@@ -11,4 +11,5 @@
    * Create and manage object containers
    * Create and manage volumes
    * Create and manage shares
+   * Launch and manage stacks
 
