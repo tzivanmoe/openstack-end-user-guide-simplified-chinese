@@ -4,7 +4,7 @@
 * [How Can I Use an OpenStack Guide?](how_can_i_use_an_openstack_cloud/index.md)
 * [OpenStack Dashboard](openstack_dashboard/index.md)
    * [Log in to the Dashboard](openstack_dashboard/log_in_dashboard.md)
-   * Upload and Manage Images
+   * [Upload and Manage Images](openstack_dashboard/dashboard_manage_images.md)
    * Configure access and security for instances
    * Launch and manage instances
    * Create and manage networks
