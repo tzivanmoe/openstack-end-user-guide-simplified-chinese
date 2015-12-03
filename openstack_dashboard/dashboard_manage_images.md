@@ -57,7 +57,7 @@
 
 删除镜像将永久删除，不能恢复。只有拥有相应权限的用户才能删除镜像。
 
-- 登录控制台。Log in to the dashboard.
+- 登录控制台。
 - 在Project选项卡中，进入CURRENT PROJECT，然后选择目标Project。
 - 在Project选项卡种，打开Compute选项卡，然后点击Images分类。
 - 选择想删除的镜像。
