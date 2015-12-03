@@ -48,7 +48,7 @@
 - 选择你想修改的镜像。
 - 在Action列，点击More，然后在列表中点击Edit Image。
 - 在Update Image对话空中，可以进行如下操作：
-	- Change the name of the image.重命名镜像。
+	- 重命名镜像。
 	- 勾选Public，将该镜像公开。
 	- 取消勾选Public，将该镜像转为私有。
 - 点击Update Image。
