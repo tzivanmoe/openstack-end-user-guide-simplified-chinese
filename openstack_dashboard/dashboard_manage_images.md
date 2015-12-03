@@ -21,13 +21,14 @@
 	此时将会弹出一个“Create An Image”对话框。
 
 5. 输入如下值：
-
+	|选项|说明|
+	|:--|:--|
 	|Name|镜像的名称|
 	|Description|镜像的概要介绍|
 	|Image Source|在下拉菜单中选择镜像源。有镜像地址和镜像文件可供选择。|
 	|Image File or Image Location|根据用户在“Image Source”中的选择，在此处可以填写镜像的URL地址，或者浏览本地文件寻找镜像。|
 	|Format|选择镜像的格式（如“QCOW2”格式等）|
-	|Architecture|指定该镜像额架构。例：32位的架构是“i386”，64位的架构是“x86_64”|
+	|Architecture|指定该镜像的架构。例：32位的架构是“i386”，64位的架构是“x86_64”|
 	|Minimum Disk (GB) and Minimum RAM (MB)|此处请留空|
 	|Copy Data|勾选此项表示希望将镜像数据复制到镜像服务中|
 	|Public|勾选此项表示此镜像会对此Project下的所有用户公开|
@@ -52,8 +53,6 @@
 7. 点击Update Image。
 
 #### 删除镜像
-
-Deletion of images is permanent and cannot be reversed. Only users with the appropriate permissions can delete images.
 
 删除镜像将永久删除，不能恢复。只有拥有相应权限的用户才能删除镜像。
 
