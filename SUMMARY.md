@@ -9,7 +9,7 @@
 - [OpenStack控制台](openstack_dashboard/index.md)
 	- [登录控制台](openstack_dashboard/log_in_dashboard.md)
 	- [上传和管理镜像](openstack_dashboard/dashboard_manage_images.md)
-	- [Configure access and security for instances](openstack_dashboard/configure_access_and_security_for_instances.md)
+	- [权限和安全配置](openstack_dashboard/configure_access_and_security_for_instances.md)
 	- [Launch and manage instances](openstack_dashboard/dashboard_launch_instances.md)
 	- [Create and manage networks](openstack_dashboard/dashboard_create_networks.md)
 	- [Create and manage object containers](openstack_dashboard/dashboard_manage_containers.md)
