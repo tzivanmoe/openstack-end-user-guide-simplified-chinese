@@ -4,10 +4,8 @@ Start Date: 20151202
 
 Latest Update: 20151203
 
-Days: 2
+Days: 3
 
-Chapters Finished: 5/45
+Chapters Finished: 6/45
 
-Percentage Finished: 11%
-
-Estimated to Finish in: 18 days
+Percentage Finished: 13%
