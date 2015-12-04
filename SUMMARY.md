@@ -13,7 +13,7 @@
 	- [Launch and manage instances](openstack_dashboard/dashboard_launch_instances.md)
 	- [创建和管理网络](openstack_dashboard/dashboard_create_networks.md)
 	- [创建和管理对象及容器](openstack_dashboard/dashboard_manage_containers.md)
-	- [Create and manage volumes](openstack_dashboard/dashboard_manage_volumes.md)
+	- [创建和管理卷](openstack_dashboard/dashboard_manage_volumes.md)
 	- [Create and manage shares](openstack_dashboard/dashboard_manage_shares.md)
 	- [Launch and manage stacks](openstack_dashboard/dashboard_stack.md)
 	- [Create and manage databases](openstack_dashboard/dashboard_databases.md)
