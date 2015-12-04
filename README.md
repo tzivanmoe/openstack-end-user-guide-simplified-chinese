@@ -6,6 +6,6 @@ Latest Update: 20151203
 
 Days: 3
 
-Chapters Finished: 6/45
+Chapters Finished: 7/45
 
-Percentage Finished: 13%
+Percentage Finished: 16%

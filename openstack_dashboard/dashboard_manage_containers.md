@@ -82,7 +82,5 @@ Pseudo-folders是和正常操作系统类似的文件夹。只是他们是由对
 5. 点击Create 为Pseudo-folder起个名字。
 	此时会弹出一个对话框，名为“Create Pseudo-Folder in Container <name>”，其中<name>是你希望操作的容器名称。
 6. 为Pseudo-folder起个名字。
-
-在对象名称中，OpenStack会用一个斜线“/”来划分Pseudo-folder和真实的对象名称。
-
+	在对象名称中，OpenStack会用一个斜线“/”来划分Pseudo-folder和真实的对象名称。
 7. 点击Create
