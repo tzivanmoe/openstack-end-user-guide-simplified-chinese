@@ -18,7 +18,7 @@
 	- [Launch and manage stacks](openstack_dashboard/dashboard_stack.md)
 	- [Create and manage databases](openstack_dashboard/dashboard_databases.md)
 - [OpenStack command-line clients](openstack_command_line_clients/index.md)
-	- [Overview](openstack_command_line_clients/cli_overview.md)
+	- [概览](openstack_command_line_clients/cli_overview.md)
 	- [Install the OpenStack command-line clients](openstack_command_line_clients/cli_install_openstack_command_line_clients.md)
 	- [Discover the version number for a client](openstack_command_line_clients/cli_discover_version_number_for_a_client.md)
 	- [Set environment variables using the OpenStack RC file](openstack_command_line_clients/cli_set_environment_variables_using_openstack_rc.md)
