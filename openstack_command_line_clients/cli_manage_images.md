@@ -180,4 +180,9 @@ $ glance image-update \
 |xen|e1000/netfront/ne2k_pci/pcnet/rtl8139|
 |vmware|VirtualE1000/VirtualPCNet32/VirtualVmxnet|
 
-创建
+#### 解决创建镜像过程中出现的问题
+
+如果您在使用Image或Compute创建镜像时遇到了问题，以下信息也许会帮您解决问题：
+
+- 首先，保证您使用的```qemu```版本在0.14版以上。这之前的版本会在```nova-compute.log```文件中留下```unknown option -s```的报错。
+- 在```/var/log/nova-api.log```和```/var/log/nova-compute.log```文件中查看错误信息。
