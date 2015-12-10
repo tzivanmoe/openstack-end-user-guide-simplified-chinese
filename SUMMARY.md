@@ -19,7 +19,7 @@
    * [安装OpenStack命令行工具](openstack_command_line_clients/cli_install_openstack_command_line_clients.md)
    * [查看某个命令行客户端的版本号](openstack_command_line_clients/cli_discover_version_number_for_a_client.md)
    * [用OpenStack RC文件设置环境变量](openstack_command_line_clients/cli_set_environment_variables_using_openstack_rc.md)
-   * [Manage images](openstack_command_line_clients/cli_manage_images.md)
+   * [管理镜像](openstack_command_line_clients/cli_manage_images.md)
    * [Manage volumes](openstack_command_line_clients/cli_manage_volumes.md)
    * [Manage shares](openstack_command_line_clients/cli_manage_shares.md)
    * [Configure access and security for instances](openstack_command_line_clients/cli_nova_configure_access_security_for_instances.md)
