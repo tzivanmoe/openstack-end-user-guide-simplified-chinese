@@ -21,7 +21,7 @@
    * [用OpenStack RC文件设置环境变量](openstack_command_line_clients/cli_set_environment_variables_using_openstack_rc.md)
    * [管理镜像](openstack_command_line_clients/cli_manage_images.md)
    * [管理卷](openstack_command_line_clients/cli_manage_volumes.md)
-   * [Manage shares](openstack_command_line_clients/cli_manage_shares.md)
+   * [管理共享](openstack_command_line_clients/cli_manage_shares.md)
    * [Configure access and security for instances](openstack_command_line_clients/cli_nova_configure_access_security_for_instances.md)
    * [Launch instances](openstack_command_line_clients/cli_launch_instances.md)
    * [Manage instances and hosts](openstack_command_line_clients/cli_manage_instances_hosts.md)
