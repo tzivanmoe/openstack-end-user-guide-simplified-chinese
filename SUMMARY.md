@@ -25,7 +25,7 @@
    * [虚拟机实例的权限和安全配置](openstack_command_line_clients/cli_nova_configure_access_security_for_instances.md)
    * [创建实例](openstack_command_line_clients/cli_launch_instances.md)
    * [Manage instances and hosts](openstack_command_line_clients/cli_manage_instances_hosts.md)
-   * [Provide user data to instances](openstack_command_line_clients/cli_provide_user_data_to_instances.md)
+   * [为实例提供用户数据](openstack_command_line_clients/cli_provide_user_data_to_instances.md)
    * [利用快照迁移实例](openstack_command_line_clients/cli_use_snapshots_to_migrate_instances.md)
    * [将元数据存储在配置盘中](openstack_command_line_clients/cli_config_drive.md)
    * [创建和管理网络](openstack_command_line_clients/cli_create_and_manage_networks.md)
