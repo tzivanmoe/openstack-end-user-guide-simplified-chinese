@@ -23,7 +23,7 @@
    * [管理卷](openstack_command_line_clients/cli_manage_volumes.md)
    * [管理共享](openstack_command_line_clients/cli_manage_shares.md)
    * [虚拟机实例的权限和安全配置](openstack_command_line_clients/cli_nova_configure_access_security_for_instances.md)
-   * [Launch instances](openstack_command_line_clients/cli_launch_instances.md)
+   * [创建实例](openstack_command_line_clients/cli_launch_instances.md)
    * [Manage instances and hosts](openstack_command_line_clients/cli_manage_instances_hosts.md)
    * [Provide user data to instances](openstack_command_line_clients/cli_provide_user_data_to_instances.md)
    * [Use snapshots to migrate instances](openstack_command_line_clients/cli_use_snapshots_to_migrate_instances.md)
