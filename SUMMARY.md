@@ -26,7 +26,7 @@
    * [创建实例](openstack_command_line_clients/cli_launch_instances.md)
    * [Manage instances and hosts](openstack_command_line_clients/cli_manage_instances_hosts.md)
    * [Provide user data to instances](openstack_command_line_clients/cli_provide_user_data_to_instances.md)
-   * [Use snapshots to migrate instances](openstack_command_line_clients/cli_use_snapshots_to_migrate_instances.md)
+   * [利用快照迁移实例](openstack_command_line_clients/cli_use_snapshots_to_migrate_instances.md)
    * [Store metadata on a configuration drive](openstack_command_line_clients/cli_config_drive.md)
    * [Create and manage networks](openstack_command_line_clients/cli_create_and_manage_networks.md)
    * [Manage objects and containers](openstack_command_line_clients/managing-openstack-object-storage-with-swift-cli.md)
