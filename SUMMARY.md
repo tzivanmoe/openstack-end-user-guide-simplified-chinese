@@ -14,7 +14,7 @@
    * [Create and manage shares](openstack_dashboard/dashboard_manage_shares.md)
    * [Launch and manage stacks](openstack_dashboard/dashboard_stack.md)
    * [Create and manage databases](openstack_dashboard/dashboard_databases.md)
-* [OpenStack command-line clients](openstack_command_line_clients/index.md)
+* [OpenStack命令行工具](openstack_command_line_clients/index.md)
    * [概览](openstack_command_line_clients/cli_overview.md)
    * [安装OpenStack命令行工具](openstack_command_line_clients/cli_install_openstack_command_line_clients.md)
    * [查看某个命令行客户端的版本号](openstack_command_line_clients/cli_discover_version_number_for_a_client.md)
