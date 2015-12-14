@@ -2,10 +2,10 @@
 
 Start Date: 20151202
 
-Latest Update: 20151203
+Latest Update: 20151214
 
-Days: 3
+Days: 12
 
-Chapters Finished: 7/45
+Chapters Finished: 20/45
 
-Percentage Finished: 16%
+Percentage Finished: 42%
